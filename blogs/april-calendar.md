@@ -22,11 +22,11 @@
 |---|---|---|---|---|---|
 | 2026-04-08 | Wed | what-happens-after-arrest-laguna-beach | what happens after an arrest in Laguna Beach | Bail Process | ✅ published |
 | 2026-04-09 | Thu | how-bail-bonds-work-laguna-beach | how do bail bonds work in Laguna Beach | Bail Bonds 101 | ✅ published |
-| 2026-04-10 | Fri | how-much-is-bail-laguna-beach | how much is bail in Orange County | Bail Amounts | ⬜ |
+| 2026-04-10 | Fri | how-much-is-bail-laguna-beach | how much is bail in Orange County | Bail Amounts | ✅ published |
 | 2026-04-11 | Sat | how-to-get-someone-out-of-jail-laguna-beach | how to get someone out of jail in Laguna Beach | Release Process | ⬜ |
 | 2026-04-12 | Sun | domestic-violence-bail-laguna-beach | domestic violence bail bonds Laguna Beach | DV Bail | ⬜ |
 | 2026-04-13 | Mon | dui-bail-bonds-laguna-beach | DUI bail bonds Laguna Beach | DUI | ⬜ |
-| 2026-04-14 | Tue | felony-bail-bonds-laguna-beach | felony bail bonds Laguna Beach | Felony | ⬜ |
+| 2026-04-14 | Tue | laguna-beach-bail-bonds | laguna beach bail bonds | Keyword Bank HIGH — foundational | ✅ published Apr 14 (swapped from felony-bail-bonds) |
 | 2026-04-15 | Wed | drug-possession-bail-laguna-beach | drug possession bail Laguna Beach | Drug Charges | ⬜ |
 | 2026-04-16 | Thu | bail-someone-out-at-night-laguna-beach | can you bail someone out at night in Laguna Beach | 24/7 Bail | ⬜ |
 | 2026-04-17 | Fri | how-long-bail-takes-laguna-beach | how long does it take to bail someone out of Laguna Beach PD | Timeline | ⬜ |
