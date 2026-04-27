@@ -39,7 +39,7 @@
 | 2026-04-24 | Fri | bail-hearing-laguna-beach | bail hearing process in Orange | Bail Hearing | ⬜ |
 | 2026-04-25 | Sat | warrant-bail-bonds-laguna-beach | warrant bail bonds Laguna Beach | Warrants | ⬜ |
 | 2026-04-26 | Sun | what-happens-miss-court-laguna-beach | what happens if you miss court date Laguna Beach | FTA | ⬜ |
-| 2026-04-27 | Mon | assault-bail-bonds-laguna-beach | assault and battery bail bonds Laguna Beach | Assault | ⬜ |
+| 2026-04-27 | Mon | assault-bail-bonds-laguna-beach | assault and battery bail bonds Laguna Beach | Assault | ✅ published |
 | 2026-04-28 | Tue | theft-bail-bonds-laguna-beach | theft and burglary bail bonds Laguna Beach | Theft | ⬜ |
 | 2026-04-29 | Wed | choosing-bail-bondsman-laguna-beach | how to choose a bail bondsman in Laguna Beach | How to Choose | ⬜ |
 | 2026-04-30 | Thu | bail-bond-cosigner-laguna-beach | what does a bail bond cosigner do Laguna Beach | Cosigner | ⬜ |
